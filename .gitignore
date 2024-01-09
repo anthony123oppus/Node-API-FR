@@ -1,1 +1,3 @@
-node_modules
+# this will ignore node_modules  if i write server.js the server.js file will ignore in git commit
+node_modules 
+.env

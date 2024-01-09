@@ -1,0 +1,4 @@
+NODE_ENV=development # para kung under development  mo show ang error pero kung under production na null ra ang ishow -- ang gamit kay sa errorMiddleware
+MONGO_URL= #mongodb+srv://localhost:localhost@nodeapi.2qs12hx.mongodb.net/node-API?retryWrites=true&w=majority
+PORT = 4000
+FRONTEND = http://example.com #kani kay para ang imong link na butang kay mao ray maka access
